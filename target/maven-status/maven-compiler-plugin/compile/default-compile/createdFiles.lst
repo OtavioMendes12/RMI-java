@@ -1,7 +1,10 @@
 client/DictionaryGUI.class
 server/DictionaryServer.class
 server/DataPersistence.class
+client/DictionaryGUI$3.class
 server/DictionaryServiceImpl.class
 server/DataPersistence$1.class
+client/DictionaryGUI$1.class
 server/DictionaryService.class
+client/DictionaryGUI$2.class
 client/DictionaryClient.class
